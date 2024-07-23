@@ -1,2 +1,3 @@
 # aulahtml
-Aula de HTML 
+Aula inicial de introdução ao HTML
+ 
